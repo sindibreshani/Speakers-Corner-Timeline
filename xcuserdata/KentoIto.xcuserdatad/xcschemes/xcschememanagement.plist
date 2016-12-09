@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Speakers Corner Timeline.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>18ED4E3C1C89D61800881E90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18ED4E551C89D61800881E90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18ED4E601C89D61800881E90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

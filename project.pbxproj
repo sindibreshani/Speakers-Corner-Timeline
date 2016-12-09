@@ -1,0 +1,573 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		183875B91C8B0D8800685EB7 /* george orwell.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875B81C8B0D8800685EB7 /* george orwell.png */; };
+		183875BB1C8B0D8E00685EB7 /* henry 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875BA1C8B0D8E00685EB7 /* henry 8.png */; };
+		183875BD1C8B0D9800685EB7 /* time 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875BC1C8B0D9800685EB7 /* time 0.png */; };
+		183875BF1C8B0D9D00685EB7 /* time 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875BE1C8B0D9D00685EB7 /* time 1.png */; };
+		183875C11C8B0DA200685EB7 /* time 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875C01C8B0DA200685EB7 /* time 2.png */; };
+		183875C31C8B0DA700685EB7 /* time 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875C21C8B0DA700685EB7 /* time 3.png */; };
+		183875C71C8B0DB100685EB7 /* time 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875C41C8B0DB100685EB7 /* time 4.png */; };
+		183875C81C8B0DB100685EB7 /* time 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875C51C8B0DB100685EB7 /* time 5.png */; };
+		183875C91C8B0DB100685EB7 /* time 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 183875C61C8B0DB100685EB7 /* time 6.png */; };
+		183C91161C8B5949005CDED2 /* Abbey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 183C91151C8B5949005CDED2 /* Abbey.jpg */; };
+		18ED4E421C89D61800881E90 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ED4E411C89D61800881E90 /* main.m */; };
+		18ED4E451C89D61800881E90 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ED4E441C89D61800881E90 /* AppDelegate.m */; };
+		18ED4E481C89D61800881E90 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ED4E471C89D61800881E90 /* ViewController.m */; };
+		18ED4E4B1C89D61800881E90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18ED4E491C89D61800881E90 /* Main.storyboard */; };
+		18ED4E4D1C89D61800881E90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18ED4E4C1C89D61800881E90 /* Assets.xcassets */; };
+		18ED4E501C89D61800881E90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18ED4E4E1C89D61800881E90 /* LaunchScreen.storyboard */; };
+		18ED4E5B1C89D61800881E90 /* Speakers_Corner_TimelineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ED4E5A1C89D61800881E90 /* Speakers_Corner_TimelineTests.m */; };
+		18ED4E661C89D61800881E90 /* Speakers_Corner_TimelineUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ED4E651C89D61800881E90 /* Speakers_Corner_TimelineUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		18ED4E571C89D61800881E90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18ED4E351C89D61800881E90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18ED4E3C1C89D61800881E90;
+			remoteInfo = "Speakers Corner Timeline";
+		};
+		18ED4E621C89D61800881E90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18ED4E351C89D61800881E90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18ED4E3C1C89D61800881E90;
+			remoteInfo = "Speakers Corner Timeline";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		183875B81C8B0D8800685EB7 /* george orwell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "george orwell.png"; path = "../../app/george orwell.png"; sourceTree = "<group>"; };
+		183875BA1C8B0D8E00685EB7 /* henry 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "henry 8.png"; path = "../../app/henry 8.png"; sourceTree = "<group>"; };
+		183875BC1C8B0D9800685EB7 /* time 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 0.png"; path = "../../app/time 0.png"; sourceTree = "<group>"; };
+		183875BE1C8B0D9D00685EB7 /* time 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 1.png"; path = "../../app/time 1.png"; sourceTree = "<group>"; };
+		183875C01C8B0DA200685EB7 /* time 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 2.png"; path = "../../app/time 2.png"; sourceTree = "<group>"; };
+		183875C21C8B0DA700685EB7 /* time 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 3.png"; path = "../../app/time 3.png"; sourceTree = "<group>"; };
+		183875C41C8B0DB100685EB7 /* time 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 4.png"; path = "../../app/time 4.png"; sourceTree = "<group>"; };
+		183875C51C8B0DB100685EB7 /* time 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 5.png"; path = "../../app/time 5.png"; sourceTree = "<group>"; };
+		183875C61C8B0DB100685EB7 /* time 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "time 6.png"; path = "../../app/time 6.png"; sourceTree = "<group>"; };
+		183C91151C8B5949005CDED2 /* Abbey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Abbey.jpg; path = ../../app/Abbey.jpg; sourceTree = "<group>"; };
+		18ED4E3D1C89D61800881E90 /* Speakers Corner Timeline.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Speakers Corner Timeline.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18ED4E411C89D61800881E90 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18ED4E431C89D61800881E90 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		18ED4E441C89D61800881E90 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		18ED4E461C89D61800881E90 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		18ED4E471C89D61800881E90 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		18ED4E4A1C89D61800881E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18ED4E4C1C89D61800881E90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18ED4E4F1C89D61800881E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18ED4E511C89D61800881E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ED4E561C89D61800881E90 /* Speakers Corner TimelineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakers Corner TimelineTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18ED4E5A1C89D61800881E90 /* Speakers_Corner_TimelineTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Speakers_Corner_TimelineTests.m; sourceTree = "<group>"; };
+		18ED4E5C1C89D61800881E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ED4E611C89D61800881E90 /* Speakers Corner TimelineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speakers Corner TimelineUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18ED4E651C89D61800881E90 /* Speakers_Corner_TimelineUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Speakers_Corner_TimelineUITests.m; sourceTree = "<group>"; };
+		18ED4E671C89D61800881E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18ED4E3A1C89D61800881E90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E531C89D61800881E90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E5E1C89D61800881E90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18ED4E341C89D61800881E90 = {
+			isa = PBXGroup;
+			children = (
+				18ED4E3F1C89D61800881E90 /* Speakers Corner Timeline */,
+				18ED4E591C89D61800881E90 /* Speakers Corner TimelineTests */,
+				18ED4E641C89D61800881E90 /* Speakers Corner TimelineUITests */,
+				18ED4E3E1C89D61800881E90 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18ED4E3E1C89D61800881E90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18ED4E3D1C89D61800881E90 /* Speakers Corner Timeline.app */,
+				18ED4E561C89D61800881E90 /* Speakers Corner TimelineTests.xctest */,
+				18ED4E611C89D61800881E90 /* Speakers Corner TimelineUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18ED4E3F1C89D61800881E90 /* Speakers Corner Timeline */ = {
+			isa = PBXGroup;
+			children = (
+				183C91151C8B5949005CDED2 /* Abbey.jpg */,
+				183875B81C8B0D8800685EB7 /* george orwell.png */,
+				183875BA1C8B0D8E00685EB7 /* henry 8.png */,
+				183875BC1C8B0D9800685EB7 /* time 0.png */,
+				183875BE1C8B0D9D00685EB7 /* time 1.png */,
+				183875C01C8B0DA200685EB7 /* time 2.png */,
+				183875C21C8B0DA700685EB7 /* time 3.png */,
+				183875C41C8B0DB100685EB7 /* time 4.png */,
+				183875C51C8B0DB100685EB7 /* time 5.png */,
+				183875C61C8B0DB100685EB7 /* time 6.png */,
+				18ED4E431C89D61800881E90 /* AppDelegate.h */,
+				18ED4E441C89D61800881E90 /* AppDelegate.m */,
+				18ED4E461C89D61800881E90 /* ViewController.h */,
+				18ED4E471C89D61800881E90 /* ViewController.m */,
+				18ED4E491C89D61800881E90 /* Main.storyboard */,
+				18ED4E4C1C89D61800881E90 /* Assets.xcassets */,
+				18ED4E4E1C89D61800881E90 /* LaunchScreen.storyboard */,
+				18ED4E511C89D61800881E90 /* Info.plist */,
+				18ED4E401C89D61800881E90 /* Supporting Files */,
+			);
+			path = "Speakers Corner Timeline";
+			sourceTree = "<group>";
+		};
+		18ED4E401C89D61800881E90 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				18ED4E411C89D61800881E90 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18ED4E591C89D61800881E90 /* Speakers Corner TimelineTests */ = {
+			isa = PBXGroup;
+			children = (
+				18ED4E5A1C89D61800881E90 /* Speakers_Corner_TimelineTests.m */,
+				18ED4E5C1C89D61800881E90 /* Info.plist */,
+			);
+			path = "Speakers Corner TimelineTests";
+			sourceTree = "<group>";
+		};
+		18ED4E641C89D61800881E90 /* Speakers Corner TimelineUITests */ = {
+			isa = PBXGroup;
+			children = (
+				18ED4E651C89D61800881E90 /* Speakers_Corner_TimelineUITests.m */,
+				18ED4E671C89D61800881E90 /* Info.plist */,
+			);
+			path = "Speakers Corner TimelineUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18ED4E3C1C89D61800881E90 /* Speakers Corner Timeline */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18ED4E6A1C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner Timeline" */;
+			buildPhases = (
+				18ED4E391C89D61800881E90 /* Sources */,
+				18ED4E3A1C89D61800881E90 /* Frameworks */,
+				18ED4E3B1C89D61800881E90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Speakers Corner Timeline";
+			productName = "Speakers Corner Timeline";
+			productReference = 18ED4E3D1C89D61800881E90 /* Speakers Corner Timeline.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18ED4E551C89D61800881E90 /* Speakers Corner TimelineTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18ED4E6D1C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner TimelineTests" */;
+			buildPhases = (
+				18ED4E521C89D61800881E90 /* Sources */,
+				18ED4E531C89D61800881E90 /* Frameworks */,
+				18ED4E541C89D61800881E90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18ED4E581C89D61800881E90 /* PBXTargetDependency */,
+			);
+			name = "Speakers Corner TimelineTests";
+			productName = "Speakers Corner TimelineTests";
+			productReference = 18ED4E561C89D61800881E90 /* Speakers Corner TimelineTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		18ED4E601C89D61800881E90 /* Speakers Corner TimelineUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18ED4E701C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner TimelineUITests" */;
+			buildPhases = (
+				18ED4E5D1C89D61800881E90 /* Sources */,
+				18ED4E5E1C89D61800881E90 /* Frameworks */,
+				18ED4E5F1C89D61800881E90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18ED4E631C89D61800881E90 /* PBXTargetDependency */,
+			);
+			name = "Speakers Corner TimelineUITests";
+			productName = "Speakers Corner TimelineUITests";
+			productReference = 18ED4E611C89D61800881E90 /* Speakers Corner TimelineUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18ED4E351C89D61800881E90 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Sindi Breshani";
+				TargetAttributes = {
+					18ED4E3C1C89D61800881E90 = {
+						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 246SDHG2QH;
+					};
+					18ED4E551C89D61800881E90 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 18ED4E3C1C89D61800881E90;
+					};
+					18ED4E601C89D61800881E90 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = 18ED4E3C1C89D61800881E90;
+					};
+				};
+			};
+			buildConfigurationList = 18ED4E381C89D61800881E90 /* Build configuration list for PBXProject "Speakers Corner Timeline" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 18ED4E341C89D61800881E90;
+			productRefGroup = 18ED4E3E1C89D61800881E90 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18ED4E3C1C89D61800881E90 /* Speakers Corner Timeline */,
+				18ED4E551C89D61800881E90 /* Speakers Corner TimelineTests */,
+				18ED4E601C89D61800881E90 /* Speakers Corner TimelineUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18ED4E3B1C89D61800881E90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18ED4E501C89D61800881E90 /* LaunchScreen.storyboard in Resources */,
+				183875C71C8B0DB100685EB7 /* time 4.png in Resources */,
+				183875BD1C8B0D9800685EB7 /* time 0.png in Resources */,
+				18ED4E4D1C89D61800881E90 /* Assets.xcassets in Resources */,
+				183875C31C8B0DA700685EB7 /* time 3.png in Resources */,
+				183C91161C8B5949005CDED2 /* Abbey.jpg in Resources */,
+				183875C11C8B0DA200685EB7 /* time 2.png in Resources */,
+				18ED4E4B1C89D61800881E90 /* Main.storyboard in Resources */,
+				183875BF1C8B0D9D00685EB7 /* time 1.png in Resources */,
+				183875C81C8B0DB100685EB7 /* time 5.png in Resources */,
+				183875C91C8B0DB100685EB7 /* time 6.png in Resources */,
+				183875BB1C8B0D8E00685EB7 /* henry 8.png in Resources */,
+				183875B91C8B0D8800685EB7 /* george orwell.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E541C89D61800881E90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E5F1C89D61800881E90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18ED4E391C89D61800881E90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18ED4E481C89D61800881E90 /* ViewController.m in Sources */,
+				18ED4E451C89D61800881E90 /* AppDelegate.m in Sources */,
+				18ED4E421C89D61800881E90 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E521C89D61800881E90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18ED4E5B1C89D61800881E90 /* Speakers_Corner_TimelineTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18ED4E5D1C89D61800881E90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18ED4E661C89D61800881E90 /* Speakers_Corner_TimelineUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		18ED4E581C89D61800881E90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18ED4E3C1C89D61800881E90 /* Speakers Corner Timeline */;
+			targetProxy = 18ED4E571C89D61800881E90 /* PBXContainerItemProxy */;
+		};
+		18ED4E631C89D61800881E90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18ED4E3C1C89D61800881E90 /* Speakers Corner Timeline */;
+			targetProxy = 18ED4E621C89D61800881E90 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		18ED4E491C89D61800881E90 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18ED4E4A1C89D61800881E90 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		18ED4E4E1C89D61800881E90 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18ED4E4F1C89D61800881E90 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		18ED4E681C89D61800881E90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		18ED4E691C89D61800881E90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		18ED4E6B1C89D61800881E90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Speakers Corner Timeline/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-Timeline";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		18ED4E6C1C89D61800881E90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "Speakers Corner Timeline/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-Timeline";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		18ED4E6E1C89D61800881E90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Speakers Corner TimelineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-TimelineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakers Corner Timeline.app/Speakers Corner Timeline";
+			};
+			name = Debug;
+		};
+		18ED4E6F1C89D61800881E90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Speakers Corner TimelineTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-TimelineTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Speakers Corner Timeline.app/Speakers Corner Timeline";
+			};
+			name = Release;
+		};
+		18ED4E711C89D61800881E90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Speakers Corner TimelineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-TimelineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Speakers Corner Timeline";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		18ED4E721C89D61800881E90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Speakers Corner TimelineUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Goldsmiths.Speakers-Corner-TimelineUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "Speakers Corner Timeline";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18ED4E381C89D61800881E90 /* Build configuration list for PBXProject "Speakers Corner Timeline" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18ED4E681C89D61800881E90 /* Debug */,
+				18ED4E691C89D61800881E90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18ED4E6A1C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner Timeline" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18ED4E6B1C89D61800881E90 /* Debug */,
+				18ED4E6C1C89D61800881E90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18ED4E6D1C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner TimelineTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18ED4E6E1C89D61800881E90 /* Debug */,
+				18ED4E6F1C89D61800881E90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18ED4E701C89D61800881E90 /* Build configuration list for PBXNativeTarget "Speakers Corner TimelineUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18ED4E711C89D61800881E90 /* Debug */,
+				18ED4E721C89D61800881E90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18ED4E351C89D61800881E90 /* Project object */;
+}
